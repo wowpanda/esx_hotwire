@@ -8,4 +8,3 @@ This is my first ever script I am releasing and its my first ever time using git
 
 If you have any bugs you fixed or anything like that you are more than welcome to share ur version of the script just please don't claim the script to be urs.
 
-(Also when it downloads it will say "esx_hotwire (4)" I accidentally downloaded this a couple times cause at first it didn't even upload the files to github and a few times it downloaded it, idk just wanted to say sorry about that)
